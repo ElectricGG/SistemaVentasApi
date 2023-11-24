@@ -1,0 +1,11 @@
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\AngularNet7SisVen\Backend\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.deps.json
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\AngularNet7SisVen\Backend\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\AngularNet7SisVen\Backend\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\AngularNet7SisVen\Backend\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\AngularNet7SisVen\Backend\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.AssemblyInfoInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\AngularNet7SisVen\Backend\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.AssemblyInfo.cs
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\AngularNet7SisVen\Backend\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\AngularNet7SisVen\Backend\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\AngularNet7SisVen\Backend\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\refint\SistemaVenta.DTO.dll
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\AngularNet7SisVen\Backend\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\jesus\OneDrive\Escritorio\Desarrollos\cursos\AngularNet7SisVen\Backend\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\ref\SistemaVenta.DTO.dll
